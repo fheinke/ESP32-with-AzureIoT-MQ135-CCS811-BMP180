@@ -39,4 +39,4 @@ GND | GND | | | |
 * BMP180 - Pressure, Altitude, Temperature, Sealevel Altitude, Real Altitude
 * An Alert is send to Azure, every Time the Co2 Level changes between "OK", "Warning" and "Critical"
 
-You must ensure that the string to be sent to the IoT Hub does not contain more than 128Bit.
+You must ensure that the string to be sent to the IoT Hub does not contain more than 128 Bit.
