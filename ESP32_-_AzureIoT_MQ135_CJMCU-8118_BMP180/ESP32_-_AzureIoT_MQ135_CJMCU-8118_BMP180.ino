@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-// 2019-09-19 FHeinke test
+// 2019-09-19 FHeinke
 //
 // This Sketch reads Sensordata and send it to an Azure IoT Hub.
 // The Onboard LED will blink every Time the ESP is measuring and sending the Data.
